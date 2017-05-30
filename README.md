@@ -1,2 +1,1 @@
-# sklep.github.io
-sklep motoryzacyjny
+# sklep_moto
