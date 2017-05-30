@@ -385,9 +385,9 @@
 				<div class="col-md-2 col-sm-4 col-xs-6 col-md-push-1">
 					<h4>Kupuj &amp; Zamawiaj</h4>
 					<ul class="fh5co-footer-links">
-						<li>Jak zamówić</li>
-						<li>Jak zapłacić</li>
-						<li>Jak kupować</li>
+						<li>Jak zamówić?</li>
+						<li>Jak zapłacić?</li>
+						<li>Jak kupować?</li>
 						<li>Dlaczego kupować u nas?</li>
 					</ul>
 				</div>
