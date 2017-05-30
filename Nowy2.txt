@@ -1,0 +1,90 @@
+<div id="style_i_platnosci" class="">
+			 <style type="text/css">
+				<!--
+#platnosci 
+{
+  width:235px;
+  font-size:15px;
+  color:#fff;
+}
+#platnosci .tresc 
+{
+  padding: 10px;
+  color:#2e2d2d;
+  margin-top: 10px;
+}
+#platnosci .naglowek 
+{
+  width:235px;
+  height:46px;
+  line-height:46px;
+  font-family:'Impact-r-niestandardowa';
+  text-indent:60px;
+  color: #000;
+  font-size:18px;
+}
+#platnosci p
+{
+  margin-bottom:26px;
+}
+#platnosci .text_1 
+{
+  font-weight:bold;
+}
+          -->
+        </style>
+							
+        <div id="platnosci" class="two_columns">
+				<div class="element">
+        
+        <!--- PLATNOSCI GRAFIKA -->
+          <img src="http://imgie.pl/uploads/platnosci.png" alt="http://imgie.pl/uploads/platnosci.png" />
+        </div>
+				  <div class="tresc">
+					 <p class="text_1">
+            Numer konta
+           </p>
+           
+           
+            <!----NUMER KONTA -->
+            <p>
+              XXXX XXXX XXXX XXXX XXXX XXXX XXXX
+            </p>
+           </div>
+           </div>
+							<!--
+							koniec platnosci
+							-->
+						</div>  
+            
+            
+            <li><a href="http://allegro.pl/SendMailToUser.php?userId=45059940">Kontakt</a></li>
+            
+            	<div class="kurier">                                  
+					<div class="hr-line">&nbsp;
+          </div>  
+					<div class="fedex opcje-wysylki element grafika nr_grafiki3">&nbsp;
+          </div>  
+          <div class="dpd opcje-wysylki element grafika nr_grafiki4">&nbsp;
+          </div>  
+					 
+           <ul class="oplaty">    
+						<li>
+              Kurier Przedp³ata - 17z³
+            </li>    
+						<li>
+              Kurier Pobranie - 22z³
+            </li>  
+					</ul>                                
+        
+        </div>
+        
+        #wysylka .opcje-wysylki.fedex
+{
+  background: transparent url('http://imgie.pl/uploads/fedex_131c2.png') top center no-repeat;
+  margin-bottom:15px;
+}
+#wysylka .opcje-wysylki.dpd
+{
+  background: transparent url('http://imgie.pl/uploads/dpd_95e7b.png') top center no-repeat;
+}
